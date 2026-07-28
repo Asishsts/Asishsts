@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm akash</h1>
+<h1 align="center">Hi 👋, I'm Asish</h1>
 
 <div align="center">
 
