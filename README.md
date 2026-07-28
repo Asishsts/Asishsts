@@ -1,4 +1,4 @@
-<img width="100%" src="<img width="1900" height="684" alt="241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5" src="https://github.com/user-attachments/assets/47e52de1-ccad-47bd-8612-0162e08f2367"/>
+<img width="1900" height="684" alt="241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5" src="https://github.com/user-attachments/assets/47e52de1-ccad-47bd-8612-0162e08f2367"/>
 
 <h1 align="center">Hi 👋, I'm Asish S</h1>
 
