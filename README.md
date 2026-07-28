@@ -1,49 +1,195 @@
-<img width="1900" height="684" alt="241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5" src="https://github.com/user-attachments/assets/9454ce98-67c2-4a68-8fdf-0a59f5faa12b" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Asish%20S&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">Hi 👋, I'm Asish</h1>
+<h1 align="center">Hi 👋, I'm Asish S</h1>
+
+<h3 align="center">💻 Computer Science Student | Python Developer | Django Developer | Full Stack Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer+🐍;Django+Developer+🌐;Full+Stack+Developer+💻;Always+Learning+New+Technologies+🚀;Open+Source+Enthusiast+❤️"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 🌱 Currently learning **Python, Django, React & Full Stack Development**
+- 💻 Passionate about Python, Web Development & Software Engineering
+- 🚀 Interested in Backend Development, APIs & Cloud Computing
+- 🤝 Looking to collaborate on Open Source & Django Projects
+- 📚 Always learning new technologies
+- ⚡ Fun Fact: *I turn coffee ☕ into code.*
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Asishsts">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/asish-s-2k24">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:asishst02@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,java,c,cpp,js,html,css,react,nodejs,express,mysql,mongodb,sqlite,git,github,vscode,postman,linux,figma"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asishsts&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asishsts&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asishsts&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asishsts&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Asishsts&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎬 Movie Information App
+- Python
+- Tkinter
+- OMDb API
+
+### 🌍 GIS Web Map Project
+- QGIS
+- Web Mapping
+- Open Source GIS
+
+### 🌐 Django Web Application
+- Authentication
+- CRUD Operations
+- SQLite
+
+### 🔐 Password Generator
+- Python
+- Random Module
+
+### 🌐 Personal Portfolio
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 📚 Currently Learning
+
+- Django REST Framework
+- React.js
+- REST APIs
+- Docker
+- GitHub Actions
+- Cloud Deployment
+
+---
+
+# 🎯 2026 Goals
+
+✅ Become a Professional Full Stack Developer
+
+✅ Master Django & React
+
+✅ Build Real World Projects
+
+✅ Contribute to Open Source
+
+✅ Learn DevOps & Cloud
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/Asishsts">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/asish-s-2k24">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:asishst02@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8DA59&width=435&lines=Just+a+fun%2C+but+a+passionate+one+%E2%98%95;Full+Stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+## 🚀 "Dream Big. Build Bigger. Keep Coding."
 
 </div>
 
-## 🌍 About Me
-- 🌱 I’m currently learning *React Three Fiber*
-- 👯 I’m looking to collaborate on *Three.js projects*
-- 💬 Ask me about *React, Three.js, or web development*
-- ⚡ Fun fact: *I turn coffee into code ☕*
+---
 
-![](https://komarev.com/ghpvc/?username=akashprakash12&color=blue)
+<p align="center">
 
-## 📱 Connect With Me
+<img src="https://komarev.com/ghpvc/?username=Asishsts&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-actual-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-actual-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashprakash7032@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-akash-woad.vercel.app/)
+### ⭐ Thanks for visiting my GitHub Profile! ⭐
 
-</div>
-
-
-
-## ⚙️ Tools & Technologies
-<div align="center">
-
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-## 📖 Languages & Frameworks
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,java,nodejs,blender,c,cpp,express,github,mongodb,mysql,postman,tailwind,threejs,vite,vscode)](https://skillicons.dev)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
 
 </div>
 
