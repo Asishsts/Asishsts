@@ -1,4 +1,4 @@
-![Shows an illustrated sun in light mode and a moon with stars in dark mode.]<img width="1900" height="684" alt="241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5" src="https://github.com/user-attachments/assets/9454ce98-67c2-4a68-8fdf-0a59f5faa12b" />
+<img width="1900" height="684" alt="241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5" src="https://github.com/user-attachments/assets/9454ce98-67c2-4a68-8fdf-0a59f5faa12b" />
 
 <h1 align="center">Hi 👋, I'm Asish</h1>
 
