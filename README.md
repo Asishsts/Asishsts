@@ -12,13 +12,10 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
+- 🎓 Computer Science Engineer
 - 🌱 Currently learning **Python, Django, React & Full Stack Development**
 - 💻 Passionate about Python, Web Development & Software Engineering
-- 🚀 Interested in Backend Development, APIs & Cloud Computing
-- 🤝 Looking to collaborate on Open Source & Django Projects
-- 📚 Always learning new technologies
-- ⚡ Fun Fact: *I turn coffee ☕ into code.*
+
 
 ---
 
