@@ -59,7 +59,7 @@
 
 <div align="center">
  
-![akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashprakash12&show_icons=true&theme=tokyonight)
+![asish's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashprakash12&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashprakash12&layout=donut&theme=tokyonight)](https://github.com/akashprakash12/github-readme-stats)
 
