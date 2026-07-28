@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Asish%20S&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="<img width="1900" height="684" alt="241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5" src="https://github.com/user-attachments/assets/47e52de1-ccad-47bd-8612-0162e08f2367"/>
 
 <h1 align="center">Hi 👋, I'm Asish S</h1>
 
-<h3 align="center">💻 Computer Science Student | Python Developer | Django Developer | Full Stack Developer</h3>
+<h3 align="center"> Python Developer | Django Developer | Full Stack Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer+🐍;Django+Developer+🌐;Full+Stack+Developer+💻;Always+Learning+New+Technologies+🚀;Open+Source+Enthusiast+❤️"/>
